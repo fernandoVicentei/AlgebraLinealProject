@@ -1,0 +1,63 @@
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\bin\Debug\ALGEBRA LINEAL.exe.config
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\bin\Debug\ALGEBRA LINEAL.exe
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\bin\Debug\ALGEBRA LINEAL.pdb
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csprojAssemblyReference.cache
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.Form1.resources
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.Properties.Resources.resources
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csproj.GenerateResource.cache
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csproj.CoreCompileInputs.cache
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.exe
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.pdb
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csproj.ResolveComReference.cache
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.INVERSA.resources
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.Oparaciones.resources
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.DETERMINANTE.resources
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.ECUACIONESLINEALES.resources
+F:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.RESULTADO.resources
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\bin\Debug\ALGEBRA LINEAL.exe.config
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csproj.ResolveComReference.cache
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.exe
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.pdb
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\bin\Debug\ALGEBRA LINEAL.exe
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\bin\Debug\ALGEBRA LINEAL.pdb
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csprojResolveAssemblyReference.cache
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.DETERMINANTE.resources
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.ECUACIONESLINEALES.resources
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.Form1.resources
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.INVERSA.resources
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.Oparaciones.resources
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.Properties.Resources.resources
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.RESULTADO.resources
+D:\fernando\Jobis\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csproj.GenerateResource.Cache
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\bin\Debug\ALGEBRA LINEAL.exe.config
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\bin\Debug\ALGEBRA LINEAL.exe
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\bin\Debug\ALGEBRA LINEAL.pdb
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csprojAssemblyReference.cache
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csproj.ResolveComReference.cache
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.DETERMINANTE.resources
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.ECUACIONESLINEALES.resources
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.Form1.resources
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.INVERSA.resources
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.Oparaciones.resources
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.Properties.Resources.resources
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.RESULTADO.resources
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csproj.GenerateResource.cache
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csproj.CoreCompileInputs.cache
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.exe
+F:\fernando\Prgmcn\programas de windows forms\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.pdb
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\bin\Debug\ALGEBRA LINEAL.exe.config
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\bin\Debug\ALGEBRA LINEAL.exe
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\bin\Debug\ALGEBRA LINEAL.pdb
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csprojAssemblyReference.cache
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csproj.ResolveComReference.cache
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.DETERMINANTE.resources
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.ECUACIONESLINEALES.resources
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.Form1.resources
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.INVERSA.resources
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.Oparaciones.resources
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.Properties.Resources.resources
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA_LINEAL.RESULTADO.resources
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csproj.GenerateResource.cache
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csproj.CoreCompileInputs.cache
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.exe
+G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.pdb
