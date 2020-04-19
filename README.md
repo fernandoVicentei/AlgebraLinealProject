@@ -1,1 +1,2 @@
 # AlgebraLinealProject
+Holas, para que puedas entender bien el programa y de que trata, te recomiendo a que debes saber que son las matrices y vectores , y las operaciones que se pueden hacer con estas dos estructuras para manejar datos, en este trabajito lo que hacemos es que resolucion de ejercicios de ALGEBRA LINEAL, que pase un modulo en la Universidad donde estoy,  y pues como se ve esta desarrollado en el lenguaje de c# , espero les guste  xd. 
