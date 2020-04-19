@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button1 = new System.Windows.Forms.Button();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.aLGEBRALINEALToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -71,7 +72,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(21, 6, 0, 6);
-            this.menuStrip1.Size = new System.Drawing.Size(763, 46);
+            this.menuStrip1.Size = new System.Drawing.Size(763, 41);
             this.menuStrip1.TabIndex = 5;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -84,90 +85,91 @@
             this.iNVERSADEUNAMATRIZToolStripMenuItem,
             this.dETERMINANTEDEUNAMATRIZToolStripMenuItem,
             this.rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem});
-            this.aLGEBRALINEALToolStripMenuItem.Font = new System.Drawing.Font("Ravie", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.aLGEBRALINEALToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.aLGEBRALINEALToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.aLGEBRALINEALToolStripMenuItem.Name = "aLGEBRALINEALToolStripMenuItem";
-            this.aLGEBRALINEALToolStripMenuItem.Size = new System.Drawing.Size(104, 34);
+            this.aLGEBRALINEALToolStripMenuItem.Size = new System.Drawing.Size(83, 29);
             this.aLGEBRALINEALToolStripMenuItem.Text = "MENU ";
             this.aLGEBRALINEALToolStripMenuItem.Click += new System.EventHandler(this.aLGEBRALINEALToolStripMenuItem_Click);
             // 
             // sUMAYRESTADEMATRICESToolStripMenuItem
             // 
             this.sUMAYRESTADEMATRICESToolStripMenuItem.BackColor = System.Drawing.Color.Red;
-            this.sUMAYRESTADEMATRICESToolStripMenuItem.Font = new System.Drawing.Font("Jokerman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sUMAYRESTADEMATRICESToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sUMAYRESTADEMATRICESToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.sUMAYRESTADEMATRICESToolStripMenuItem.Name = "sUMAYRESTADEMATRICESToolStripMenuItem";
-            this.sUMAYRESTADEMATRICESToolStripMenuItem.Size = new System.Drawing.Size(658, 32);
+            this.sUMAYRESTADEMATRICESToolStripMenuItem.Size = new System.Drawing.Size(630, 28);
             this.sUMAYRESTADEMATRICESToolStripMenuItem.Text = "SUMA Y RESTA DE MATRICES";
             this.sUMAYRESTADEMATRICESToolStripMenuItem.Click += new System.EventHandler(this.sUMAYRESTADEMATRICESToolStripMenuItem_Click);
             // 
             // mULTIPLICACIONDEMATRICESToolStripMenuItem
             // 
             this.mULTIPLICACIONDEMATRICESToolStripMenuItem.BackColor = System.Drawing.Color.Red;
-            this.mULTIPLICACIONDEMATRICESToolStripMenuItem.Font = new System.Drawing.Font("Jokerman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.mULTIPLICACIONDEMATRICESToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.mULTIPLICACIONDEMATRICESToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.mULTIPLICACIONDEMATRICESToolStripMenuItem.Name = "mULTIPLICACIONDEMATRICESToolStripMenuItem";
-            this.mULTIPLICACIONDEMATRICESToolStripMenuItem.Size = new System.Drawing.Size(658, 32);
+            this.mULTIPLICACIONDEMATRICESToolStripMenuItem.Size = new System.Drawing.Size(630, 28);
             this.mULTIPLICACIONDEMATRICESToolStripMenuItem.Text = "MULTIPLICACION DE MATRICES";
             this.mULTIPLICACIONDEMATRICESToolStripMenuItem.Click += new System.EventHandler(this.mULTIPLICACIONDEMATRICESToolStripMenuItem_Click);
             // 
             // iNVERSADEUNAMATRIZToolStripMenuItem
             // 
             this.iNVERSADEUNAMATRIZToolStripMenuItem.BackColor = System.Drawing.Color.Yellow;
-            this.iNVERSADEUNAMATRIZToolStripMenuItem.Font = new System.Drawing.Font("Jokerman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.iNVERSADEUNAMATRIZToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.iNVERSADEUNAMATRIZToolStripMenuItem.Name = "iNVERSADEUNAMATRIZToolStripMenuItem";
-            this.iNVERSADEUNAMATRIZToolStripMenuItem.Size = new System.Drawing.Size(658, 32);
+            this.iNVERSADEUNAMATRIZToolStripMenuItem.Size = new System.Drawing.Size(630, 28);
             this.iNVERSADEUNAMATRIZToolStripMenuItem.Text = "INVERSA DE UNA MATRIZ";
             this.iNVERSADEUNAMATRIZToolStripMenuItem.Click += new System.EventHandler(this.iNVERSADEUNAMATRIZToolStripMenuItem_Click);
             // 
             // dETERMINANTEDEUNAMATRIZToolStripMenuItem
             // 
             this.dETERMINANTEDEUNAMATRIZToolStripMenuItem.BackColor = System.Drawing.Color.Yellow;
-            this.dETERMINANTEDEUNAMATRIZToolStripMenuItem.Font = new System.Drawing.Font("Jokerman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dETERMINANTEDEUNAMATRIZToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dETERMINANTEDEUNAMATRIZToolStripMenuItem.ForeColor = System.Drawing.Color.Black;
             this.dETERMINANTEDEUNAMATRIZToolStripMenuItem.Name = "dETERMINANTEDEUNAMATRIZToolStripMenuItem";
-            this.dETERMINANTEDEUNAMATRIZToolStripMenuItem.Size = new System.Drawing.Size(658, 32);
+            this.dETERMINANTEDEUNAMATRIZToolStripMenuItem.Size = new System.Drawing.Size(630, 28);
             this.dETERMINANTEDEUNAMATRIZToolStripMenuItem.Text = "DETERMINANTE DE UNA MATRIZ";
             this.dETERMINANTEDEUNAMATRIZToolStripMenuItem.Click += new System.EventHandler(this.dETERMINANTEDEUNAMATRIZToolStripMenuItem_Click);
             // 
             // rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem
             // 
             this.rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem.BackColor = System.Drawing.Color.Green;
-            this.rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem.Font = new System.Drawing.Font("Jokerman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem.Name = "rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem";
-            this.rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem.Size = new System.Drawing.Size(658, 32);
+            this.rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem.Size = new System.Drawing.Size(630, 28);
             this.rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem.Text = "RESOLUCION DE SISTEMAS DE ECUACIONES LINEALES";
             this.rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem.Click += new System.EventHandler(this.rESOLUCIONDESISTEMASDEECUACIONESLINEALESToolStripMenuItem_Click);
             // 
             // aLGEBRALINEALToolStripMenuItem1
             // 
             this.aLGEBRALINEALToolStripMenuItem1.BackColor = System.Drawing.Color.Aqua;
-            this.aLGEBRALINEALToolStripMenuItem1.Font = new System.Drawing.Font("Wide Latin", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.aLGEBRALINEALToolStripMenuItem1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.aLGEBRALINEALToolStripMenuItem1.Name = "aLGEBRALINEALToolStripMenuItem1";
-            this.aLGEBRALINEALToolStripMenuItem1.Size = new System.Drawing.Size(490, 34);
+            this.aLGEBRALINEALToolStripMenuItem1.Size = new System.Drawing.Size(262, 29);
             this.aLGEBRALINEALToolStripMenuItem1.Text = "ALGEBRA LINEAL -- MATRICES";
             // 
             // sALIRToolStripMenuItem
             // 
             this.sALIRToolStripMenuItem.BackColor = System.Drawing.Color.Red;
-            this.sALIRToolStripMenuItem.Font = new System.Drawing.Font("Ravie", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sALIRToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sALIRToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.sALIRToolStripMenuItem.Name = "sALIRToolStripMenuItem";
-            this.sALIRToolStripMenuItem.Size = new System.Drawing.Size(116, 34);
+            this.sALIRToolStripMenuItem.Size = new System.Drawing.Size(89, 29);
             this.sALIRToolStripMenuItem.Text = "SALIR";
             this.sALIRToolStripMenuItem.Click += new System.EventHandler(this.sALIRToolStripMenuItem_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(21F, 35F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(17F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::ALGEBRA_LINEAL.Properties.Resources.upds2;
+            this.BackColor = System.Drawing.Color.Teal;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(763, 445);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.menuStrip1);
-            this.Font = new System.Drawing.Font("Snap ITC", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(11, 8, 11, 8);

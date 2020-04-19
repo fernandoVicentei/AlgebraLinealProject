@@ -61,3 +61,17 @@ G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembl
 G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.csproj.CoreCompileInputs.cache
 G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.exe
 G:\Recovered data 01-16-2019 at 08_27_39\NTFS 2\Other lost files\Windows\assembly\NativeImages_v4.0.30319_64\napinit\ALGEBRA LINEAL\ALGEBRA LINEAL\obj\Debug\ALGEBRA LINEAL.pdb
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\obj\Debug\ALGEBRA LINEAL.csprojAssemblyReference.cache
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\obj\Debug\ALGEBRA LINEAL.exe
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\obj\Debug\ALGEBRA LINEAL.pdb
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\bin\Debug\ALGEBRA LINEAL.exe.config
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\bin\Debug\ALGEBRA LINEAL.exe
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\bin\Debug\ALGEBRA LINEAL.pdb
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\obj\Debug\ALGEBRA_LINEAL.DETERMINANTE.resources
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\obj\Debug\ALGEBRA_LINEAL.ECUACIONESLINEALES.resources
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\obj\Debug\ALGEBRA_LINEAL.Form1.resources
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\obj\Debug\ALGEBRA_LINEAL.INVERSA.resources
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\obj\Debug\ALGEBRA_LINEAL.Oparaciones.resources
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\obj\Debug\ALGEBRA_LINEAL.Properties.Resources.resources
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\obj\Debug\ALGEBRA_LINEAL.RESULTADO.resources
+D:\FER\nuevo\Programacion\TRABAJOS WINDOWSFORMS\ALGEBRA LINEAL_REAL\obj\Debug\ALGEBRA LINEAL.csproj.GenerateResource.cache
